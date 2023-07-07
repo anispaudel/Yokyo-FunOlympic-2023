@@ -1,0 +1,27 @@
+Instructio to run this application:
+- Locate this application inside the c:/xampp/htdocs
+- Create database: finaldb_funolympic
+- Find out sql folder and get 'finaldb.sql' file 
+- Then, import into final database
+Run the site, 
+localhost/anish/
+
+user Login Credentials:
+Username/Email: anish@gmail.com
+Password: 1234
+
+Login to Admin Panel: 
+- Browse: localhost/anish/admin
+- username: paudelanish@gmail.com 
+- password: 1234 
+- add post
+-view post
+-Edit post
+-add-Video
+- update gallery
+- view Bookings
+-view comments
+-create admin/user
+-view all admin/users
+ 
+
