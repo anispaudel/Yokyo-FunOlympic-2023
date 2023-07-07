@@ -4,7 +4,7 @@ Instructio to run this application:
 - Find out sql folder and get 'finaldb.sql' file 
 - Then, import into final database
 Run the site, 
-localhost/anish/
+localhost/(folder name where all this file were saved)/
 
 user Login Credentials:
 Username/Email: anish@gmail.com
